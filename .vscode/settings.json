@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 24,
+    "C_Cpp.intelliSenseEngine": "Default",
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "files.defaultLanguage": "cpp",
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}
